@@ -1,0 +1,1 @@
+const orange = "#ea7070";
